@@ -1,2 +1,1 @@
-# QA_25_Demoqa_POM
-Java/Selenium/Maven testing https://demoqa.com
+Java/Selenium/Maven demoqa.com automation testing
